@@ -1,7 +1,10 @@
 info: data
 start
 work:
+// add task zero
+task zero
 task un
 task deux
 end
+
 
