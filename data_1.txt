@@ -2,7 +2,12 @@ info: data_1
 start
 Job1: do something
 work
+<<<<<<< HEAD
 Test: Verify job
 Job2: do something else
 Test : verify job 2
 end
+=======
+Task 1
+Task 2
+>>>>>>> d854384ab0ca6c6083d463d2fe32147c894879b6

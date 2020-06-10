@@ -1,7 +1,12 @@
 info: data
 start
+Task0
+Sub Task0
 work
 end
+<<<<<<< HEAD
 start: 2
 work 2
 end: 2 
+=======
+>>>>>>> d854384ab0ca6c6083d463d2fe32147c894879b6
