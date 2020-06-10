@@ -1,5 +1,6 @@
 info: data_2
-start
-work:
-task 1
+start 
+work: task 0
+work: task 1
 end
+
